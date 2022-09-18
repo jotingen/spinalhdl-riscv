@@ -1,0 +1,2 @@
+ scalafmt -c src/spinalhdl/riscv/scalafmt.conf src/spinalhdl/riscv/src/main/scala/wishbone
+ scalafmt -c src/spinalhdl/riscv/scalafmt.conf src/spinalhdl/riscv/src/main/scala/riscv

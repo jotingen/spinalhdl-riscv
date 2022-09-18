@@ -1,0 +1,12 @@
+#Scala/Sbt generated folders
+.bloop
+.bsp
+.metals
+null
+project
+
+#Build folder
+target
+
+#Logs
+verbose.log
